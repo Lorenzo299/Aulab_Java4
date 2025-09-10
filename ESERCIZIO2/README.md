@@ -1,0 +1,1 @@
+2- Scrivere un programma Java per aggiornare un elemento della lista specifico in base al suo indice. Esempio, create una lista di persone, chiedete all’utente quale persona vuole modificare, chiedete i dati e aggiornate quell’elemento della lista

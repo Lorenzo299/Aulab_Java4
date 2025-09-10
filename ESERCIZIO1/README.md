@@ -1,0 +1,1 @@
+1- Creare una List con N oggetti di una classe creata da voi. Creare un’altra List vuota, ciclare la prima lista filtrando gli elementi in base ad un criterio scelto da voi e inserire gli elementi nella seconda lista
